@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "FixColab";
+    src: url('fixcolab-webfont.woff2') format('woff2'),
+         url('fixcolab-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FixColab";
+    src: url('fixcolab-light-webfont.woff2') format('woff2'),
+         url('fixcolab-light-webfont.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FixColab";
+    src: url('fixcolab-semibold-webfont.woff2') format('woff2'),
+         url('fixcolab-semibold-webfont.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FixColab";
+    src: url('fixcolab-extrabold-webfont.woff2') format('woff2'),
+         url('fixcolab-extrabold-webfont.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
